@@ -16,11 +16,11 @@ int main()
 	int i;
 	printf("Enter a string-1: ");
 	scanf("%s",str1);
-	for (srt)                  //Complete the code in for-loop & copy logic
+	for ()                  //Complete the code in for-loop & copy logic
   {                          
 		str2[i]= ;
 	}
-	str2[i]= ;                  //Complete the statement
+	str2[i]=str1[i] ;                  //Complete the statement
 	printf("The copied String-2 is %s",str2);
 	return 0;
 }
