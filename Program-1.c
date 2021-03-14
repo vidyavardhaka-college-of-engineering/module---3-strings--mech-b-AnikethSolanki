@@ -14,7 +14,7 @@ int main()
 {
 char strings[50];                      //Declare the string
 printf("Enter a String: ");
- scanf("%s",strings);                     //read the string from user
+ scanf ("%s",strings);                     //read the string from user
 printf("the input  string is %s",strings);         //Print the string
 return 0;
-}
+} 
