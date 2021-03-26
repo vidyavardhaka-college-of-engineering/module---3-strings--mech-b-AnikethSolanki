@@ -12,7 +12,7 @@
 #include <string.h>
 int main() 
 {
-char str[50];                      //Declare the string
+char str[100];                      //Declare the string
 printf("Enter a String: ");
  scanf ("%s",str);                     //read the string from user
 printf("the input  string is %s",str);         //Print the string
