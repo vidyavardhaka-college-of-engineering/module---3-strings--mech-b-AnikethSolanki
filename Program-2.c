@@ -18,7 +18,7 @@ int main()
 	scanf("%s",str1);
 	for ()                  //Complete the code in for-loop & copy logic
   {                          
-		str2[i]= ;
+		str2[i] == str1;
 	}
 	str2[i]=str1[i] ;                  //Complete the statement
 	printf("The copied String-2 is %s",str2);

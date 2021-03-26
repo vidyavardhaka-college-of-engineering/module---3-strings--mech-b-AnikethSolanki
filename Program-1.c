@@ -12,9 +12,9 @@
 #include <string.h>
 int main() 
 {
-char strings[50];                      //Declare the string
+char str[50];                      //Declare the string
 printf("Enter a String: ");
- scanf ("%s",strings);                     //read the string from user
-printf("the input  string is %s",strings);         //Print the string
+ scanf ("%s",str);                     //read the string from user
+printf("the input  string is %s",str);         //Print the string
 return 0;
 } 
